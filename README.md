@@ -1,4 +1,4 @@
-# ExplicacionRepo
+# ExplicacionRepo (Ejemplo)
 
 proyecto para ilustrar el uso del repositorio.
 
