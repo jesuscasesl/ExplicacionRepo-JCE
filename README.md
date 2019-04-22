@@ -1,8 +1,8 @@
 # ExplicacionRepo (Ejemplo)
 
-proyecto para ilustrar el uso del repositorio y practicar con git.
+Proyectos para ilustrar el uso del repositorio, practicar con git y la resolucion de 
+conflicto
 
-se ha creado 3 archivos
+Se ha creado 3 archivos
 
-
-añadir descripcion
+Añadir descripcion
